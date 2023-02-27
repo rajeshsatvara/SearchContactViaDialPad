@@ -12,6 +12,12 @@ Example :
 2) **Raj**esh Satvara 997848640183 (as name match with 725 dial pad keys)
 
 
+## Next Task or TODO
+
+- Show serched contact name in red color.
+ Example: so as per above example , **Raj** should be in red color.
+ 
+ <br>
 
 https://user-images.githubusercontent.com/16172455/220651779-1022816a-d33f-425d-9e97-517ab30d53fc.mp4
 
